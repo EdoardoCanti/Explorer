@@ -22,6 +22,6 @@ Just collect common and repetitive operations on dataframes in a single object. 
  - `count_nulls(self)`: for each feature counts the number of of null values. Return a pandas Series object.
 
 # Examples
-![Alt Text](region_values_count.png)
-![Alt Text](ex_get_feat_type.png)
+![Alt Text](imgs/region_values_count.png)
+![Alt Text](imgs/ex_get_feat_type.png)
 
